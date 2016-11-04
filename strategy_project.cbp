@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="strategy_project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/strategy_project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-pedantic" />
+					<Add option="-Wall" />
+					<Add option="-std=c++14" />
+					<Add option="-ansi" />
+					<Add directory="include" />
+					<Add directory="C:/pdcurs34/win32" />
+					<Add directory="C:/pdcurs34" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/pdcurs34/win32/pdcurses.a" />
+					<Add directory="C:/pdcurs34/win32" />
+					<Add directory="C:/pdcurs34" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/strategy_project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Building.h" />
+		<Unit filename="include/CPUController.h" />
+		<Unit filename="include/Enums.h" />
+		<Unit filename="include/GameInstance.h" />
+		<Unit filename="include/Grid.h" />
+		<Unit filename="include/Group.h" />
+		<Unit filename="include/MiscFunctions.h" />
+		<Unit filename="include/Nation.h" />
+		<Unit filename="include/PlayerController.h" />
+		<Unit filename="include/Resources.h" />
+		<Unit filename="include/Settlement.h" />
+		<Unit filename="include/Variables.h" />
+		<Unit filename="include/World.h" />
+		<Unit filename="include/structs.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Building.cpp" />
+		<Unit filename="src/CPUController.cpp" />
+		<Unit filename="src/GameInstance.cpp" />
+		<Unit filename="src/Grid.cpp" />
+		<Unit filename="src/Group.cpp" />
+		<Unit filename="src/Nation.cpp" />
+		<Unit filename="src/PlayerController.cpp" />
+		<Unit filename="src/Resources.cpp" />
+		<Unit filename="src/Settlement.cpp" />
+		<Unit filename="src/World.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

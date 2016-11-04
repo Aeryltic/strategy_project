@@ -1,0 +1,9 @@
+#ifndef ENUMS_H_INCLUDED
+#define ENUMS_H_INCLUDED
+
+    enum
+    {
+        NONE_CONTROLLER, PLAYER_CONTROLLER, CPU_CONTROLLER
+    };
+
+#endif // ENUMS_H_INCLUDED

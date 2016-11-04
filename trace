@@ -1,0 +1,462 @@
+At: 00000008 - 10:52:52 new launch------------------------------------------------
+At: 00000048 - 10:52:52 name: cpu_nation_#1, color: 5
+At: 00000048 - 10:52:52 result;name: cpu_nation_#1, color: 5
+At: 00000048 - 10:52:52 name: cpu_nation_#2, color: 7
+At: 00000048 - 10:52:52 result;name: cpu_nation_#2, color: 7
+At: 00002257 - 10:52:54 inactive_color: 0
+active_color: 1
+At: 00003558 - 10:52:55 inactive_color: 0
+active_color: 1
+At: 00003559 - 10:52:55 inactive_color: 0
+active_color: 1
+At: 00003710 - 10:52:55 inactive_color: 0
+active_color: 1
+At: 00003961 - 10:52:56 inactive_color: 0
+active_color: 1
+At: 00004162 - 10:52:56 inactive_color: 0
+active_color: 1
+At: 00004663 - 10:52:56 inactive_color: 0
+active_color: 1
+At: 00004714 - 10:52:56 inactive_color: 0
+active_color: 1
+At: 00004765 - 10:52:56 inactive_color: 0
+active_color: 1
+At: 00004816 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00004917 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00004968 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005069 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005120 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005171 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005322 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005373 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005424 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005475 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005526 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005527 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005577 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005678 - 10:52:57 inactive_color: 0
+active_color: 1
+At: 00005879 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006030 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006081 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006132 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006183 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006234 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006285 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006335 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006436 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006537 - 10:52:58 inactive_color: 0
+active_color: 1
+At: 00006938 - 10:52:59 inactive_color: 0
+active_color: 1
+At: 00007239 - 10:52:59 inactive_color: 0
+active_color: 1
+At: 00000015 - 10:53:41 new launch------------------------------------------------
+At: 00000055 - 10:53:41 name: cpu_nation_#1, color: 5
+At: 00000055 - 10:53:41 result;name: cpu_nation_#1, color: 5
+At: 00000056 - 10:53:41 name: cpu_nation_#2, color: 7
+At: 00000056 - 10:53:41 result;name: cpu_nation_#2, color: 7
+At: 00002363 - 10:53:44 inactive_color: 1
+active_color: 2
+At: 00002364 - 10:53:44 inactive_color: 1
+active_color: 2
+At: 00002815 - 10:53:44 inactive_color: 1
+active_color: 2
+At: 00003166 - 10:53:44 inactive_color: 1
+active_color: 2
+At: 00003367 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003418 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003469 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003520 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003571 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003622 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003723 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003774 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00003825 - 10:53:45 inactive_color: 1
+active_color: 2
+At: 00004376 - 10:53:46 inactive_color: 1
+active_color: 2
+At: 00004978 - 10:53:46 inactive_color: 1
+active_color: 2
+At: 00005679 - 10:53:47 inactive_color: 1
+active_color: 2
+At: 00006180 - 10:53:47 inactive_color: 1
+active_color: 2
+At: 00006581 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00006732 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00006734 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00006835 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00006886 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00006987 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00007038 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00007089 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00007140 - 10:53:48 inactive_color: 1
+active_color: 2
+At: 00007291 - 10:53:49 inactive_color: 1
+active_color: 2
+At: 00007842 - 10:53:49 inactive_color: 1
+active_color: 2
+At: 00008343 - 10:53:50 inactive_color: 1
+active_color: 2
+At: 00008844 - 10:53:50 inactive_color: 1
+active_color: 2
+At: 00009295 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009346 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009398 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009449 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009500 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009601 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009652 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009703 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009754 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009855 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009906 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00009957 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00010058 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00010109 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00010160 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00010211 - 10:53:51 inactive_color: 1
+active_color: 2
+At: 00010262 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010313 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010364 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010565 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010616 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010667 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010718 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010769 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010820 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010871 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00010972 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00011023 - 10:53:52 inactive_color: 1
+active_color: 2
+At: 00011274 - 10:53:53 inactive_color: 1
+active_color: 2
+At: 00011775 - 10:53:53 inactive_color: 1
+active_color: 2
+At: 00011777 - 10:53:53 inactive_color: 1
+active_color: 2
+At: 00011778 - 10:53:53 inactive_color: 1
+active_color: 2
+At: 00012778 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00012780 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00012881 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00012932 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00012983 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00013034 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00013135 - 10:53:54 inactive_color: 1
+active_color: 2
+At: 00013486 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013537 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013588 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013639 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013690 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013691 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013742 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013793 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013844 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013895 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013946 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013948 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00013999 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00014049 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00014100 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00014201 - 10:53:55 inactive_color: 1
+active_color: 2
+At: 00014252 - 10:53:56 inactive_color: 1
+active_color: 2
+At: 00014353 - 10:53:56 inactive_color: 1
+active_color: 2
+At: 00014704 - 10:53:56 inactive_color: 1
+active_color: 2
+At: 00015055 - 10:53:56 inactive_color: 1
+active_color: 2
+At: 00000012 - 11:03:19 new launch------------------------------------------------
+At: 00000052 - 11:03:19 name: cpu_nation_#1, color: 5
+At: 00000053 - 11:03:19 result;name: cpu_nation_#1, color: 5
+At: 00000053 - 11:03:19 name: cpu_nation_#2, color: 7
+At: 00000053 - 11:03:19 result;name: cpu_nation_#2, color: 7
+At: 00000014 - 11:05:26 new launch------------------------------------------------
+At: 00000054 - 11:05:26 name: cpu_nation_#1, color: 5
+At: 00000054 - 11:05:26 result;name: cpu_nation_#1, color: 5
+At: 00000055 - 11:05:26 name: cpu_nation_#2, color: 7
+At: 00000055 - 11:05:26 result;name: cpu_nation_#2, color: 7
+At: 00000007 - 11:06:14 new launch------------------------------------------------
+At: 00000048 - 11:06:14 name: cpu_nation_#1, color: 5
+At: 00000048 - 11:06:14 result;name: cpu_nation_#1, color: 5
+At: 00000048 - 11:06:14 name: cpu_nation_#2, color: 7
+At: 00000049 - 11:06:14 result;name: cpu_nation_#2, color: 7
+At: 00000005 - 11:13:03 new launch------------------------------------------------
+At: 00000045 - 11:13:03 name: cpu_nation_#1, color: 4
+At: 00000045 - 11:13:03 result;name: cpu_nation_#1, color: 4
+At: 00000045 - 11:13:03 name: cpu_nation_#2, color: 6
+At: 00000046 - 11:13:03 result;name: cpu_nation_#2, color: 6
+At: 00000008 - 11:13:41 new launch------------------------------------------------
+At: 00000048 - 11:13:41 name: cpu_nation_#1, color: 4
+At: 00000048 - 11:13:41 result;name: cpu_nation_#1, color: 4
+At: 00000048 - 11:13:41 name: cpu_nation_#2, color: 6
+At: 00000048 - 11:13:41 result;name: cpu_nation_#2, color: 6
+At: 00000005 - 11:15:01 new launch------------------------------------------------
+At: 00000045 - 11:15:01 name: cpu_nation_#1, color: 4
+At: 00000046 - 11:15:01 result;name: cpu_nation_#1, color: 4
+At: 00000046 - 11:15:01 name: cpu_nation_#2, color: 6
+At: 00000046 - 11:15:01 result;name: cpu_nation_#2, color: 6
+At: 00000009 - 11:16:36 new launch------------------------------------------------
+At: 00000050 - 11:16:36 name: cpu_nation_#1, color: 4
+At: 00000050 - 11:16:36 result;name: cpu_nation_#1, color: 4
+At: 00000050 - 11:16:36 name: cpu_nation_#2, color: 6
+At: 00000051 - 11:16:36 result;name: cpu_nation_#2, color: 6
+At: 00000014 - 11:17:38 new launch------------------------------------------------
+At: 00000055 - 11:17:38 name: cpu_nation_#1, color: 4
+At: 00000055 - 11:17:38 result;name: cpu_nation_#1, color: 4
+At: 00000055 - 11:17:38 name: cpu_nation_#2, color: 6
+At: 00000055 - 11:17:38 result;name: cpu_nation_#2, color: 6
+At: 00000007 - 11:17:55 new launch------------------------------------------------
+At: 00000047 - 11:17:55 name: cpu_nation_#1, color: 4
+At: 00000048 - 11:17:55 result;name: cpu_nation_#1, color: 4
+At: 00000048 - 11:17:55 name: cpu_nation_#2, color: 6
+At: 00000048 - 11:17:55 result;name: cpu_nation_#2, color: 6
+At: 00000020 - 11:34:03 new launch------------------------------------------------
+At: 00000061 - 11:34:03 name: cpu_nation_#1, color: 4
+At: 00000061 - 11:34:03 result;name: cpu_nation_#1, color: 4
+At: 00000061 - 11:34:03 name: cpu_nation_#2, color: 6
+At: 00000061 - 11:34:03 result;name: cpu_nation_#2, color: 6
+At: 00000014 - 11:34:14 new launch------------------------------------------------
+At: 00000054 - 11:34:14 name: cpu_nation_#1, color: 4
+At: 00000054 - 11:34:14 result;name: cpu_nation_#1, color: 4
+At: 00000054 - 11:34:14 name: cpu_nation_#2, color: 6
+At: 00000055 - 11:34:14 result;name: cpu_nation_#2, color: 6
+At: 00000019 - 11:35:20 new launch------------------------------------------------
+At: 00000060 - 11:35:20 name: cpu_nation_#1, color: 4
+At: 00000060 - 11:35:20 result;name: cpu_nation_#1, color: 4
+At: 00000060 - 11:35:20 name: cpu_nation_#2, color: 6
+At: 00000060 - 11:35:20 result;name: cpu_nation_#2, color: 6
+At: 00000011 - 11:35:39 new launch------------------------------------------------
+At: 00000052 - 11:35:39 name: cpu_nation_#1, color: 4
+At: 00000052 - 11:35:39 result;name: cpu_nation_#1, color: 4
+At: 00000053 - 11:35:39 name: cpu_nation_#2, color: 6
+At: 00000053 - 11:35:39 result;name: cpu_nation_#2, color: 6
+At: 00000013 - 11:35:42 new launch------------------------------------------------
+At: 00000054 - 11:35:42 name: cpu_nation_#1, color: 4
+At: 00000054 - 11:35:42 result;name: cpu_nation_#1, color: 4
+At: 00000054 - 11:35:42 name: cpu_nation_#2, color: 6
+At: 00000054 - 11:35:42 result;name: cpu_nation_#2, color: 6
+At: 00000009 - 11:38:30 new launch------------------------------------------------
+At: 00000049 - 11:38:30 name: cpu_nation_#1, color: 4
+At: 00000050 - 11:38:30 result;name: cpu_nation_#1, color: 4
+At: 00000050 - 11:38:30 name: cpu_nation_#2, color: 6
+At: 00000050 - 11:38:30 result;name: cpu_nation_#2, color: 6
+At: 00000009 - 11:39:42 new launch------------------------------------------------
+At: 00000049 - 11:39:42 name: cpu_nation_#1, color: 4
+At: 00000050 - 11:39:42 result;name: cpu_nation_#1, color: 4
+At: 00000050 - 11:39:42 name: cpu_nation_#2, color: 6
+At: 00000050 - 11:39:42 result;name: cpu_nation_#2, color: 6
+At: 00000011 - 11:42:59 new launch------------------------------------------------
+At: 00000051 - 11:42:59 name: cpu_nation_#1, color: 4
+At: 00000052 - 11:42:59 result;name: cpu_nation_#1, color: 4
+At: 00000052 - 11:42:59 name: cpu_nation_#2, color: 6
+At: 00000052 - 11:42:59 result;name: cpu_nation_#2, color: 6
+At: 00000013 - 11:44:03 new launch------------------------------------------------
+At: 00000053 - 11:44:03 name: cpu_nation_#1, color: 4
+At: 00000054 - 11:44:03 result;name: cpu_nation_#1, color: 4
+At: 00000054 - 11:44:03 name: cpu_nation_#2, color: 6
+At: 00000054 - 11:44:03 result;name: cpu_nation_#2, color: 6
+At: 00000008 - 11:44:51 new launch------------------------------------------------
+At: 00000048 - 11:44:51 name: cpu_nation_#1, color: 4
+At: 00000049 - 11:44:51 result;name: cpu_nation_#1, color: 4
+At: 00000049 - 11:44:51 name: cpu_nation_#2, color: 6
+At: 00000049 - 11:44:51 result;name: cpu_nation_#2, color: 6
+At: 00000005 - 11:45:59 new launch------------------------------------------------
+At: 00000046 - 11:45:59 name: cpu_nation_#1, color: 4
+At: 00000046 - 11:45:59 result;name: cpu_nation_#1, color: 4
+At: 00000047 - 11:45:59 name: cpu_nation_#2, color: 6
+At: 00000047 - 11:45:59 result;name: cpu_nation_#2, color: 6
+At: 00000008 - 11:47:51 new launch------------------------------------------------
+At: 00000049 - 11:47:51 name: cpu_nation_#1, color: 4
+At: 00000049 - 11:47:51 result;name: cpu_nation_#1, color: 4
+At: 00000049 - 11:47:51 name: cpu_nation_#2, color: 6
+At: 00000049 - 11:47:51 result;name: cpu_nation_#2, color: 6
+At: 00000014 - 11:48:42 new launch------------------------------------------------
+At: 00000054 - 11:48:42 name: cpu_nation_#1, color: 4
+At: 00000055 - 11:48:42 result;name: cpu_nation_#1, color: 4
+At: 00000055 - 11:48:42 name: cpu_nation_#2, color: 6
+At: 00000055 - 11:48:42 result;name: cpu_nation_#2, color: 6
+At: 00000006 - 11:49:07 new launch------------------------------------------------
+At: 00000046 - 11:49:07 name: cpu_nation_#1, color: 4
+At: 00000047 - 11:49:07 result;name: cpu_nation_#1, color: 4
+At: 00000047 - 11:49:07 name: cpu_nation_#2, color: 6
+At: 00000047 - 11:49:07 result;name: cpu_nation_#2, color: 6
+At: 00000012 - 11:49:26 new launch------------------------------------------------
+At: 00000052 - 11:49:26 name: cpu_nation_#1, color: 4
+At: 00000052 - 11:49:26 result;name: cpu_nation_#1, color: 4
+At: 00000053 - 11:49:26 name: cpu_nation_#2, color: 6
+At: 00000053 - 11:49:26 result;name: cpu_nation_#2, color: 6
+At: 00000013 - 11:51:03 new launch------------------------------------------------
+At: 00000053 - 11:51:03 name: cpu_nation_#1, color: 4
+At: 00000053 - 11:51:03 result;name: cpu_nation_#1, color: 4
+At: 00000054 - 11:51:03 name: cpu_nation_#2, color: 6
+At: 00000054 - 11:51:03 result;name: cpu_nation_#2, color: 6
+At: 00000007 - 11:55:29 new launch------------------------------------------------
+At: 00000047 - 11:55:29 name: cpu_nation_#1, color: 4
+At: 00000048 - 11:55:29 result;name: cpu_nation_#1, color: 4
+At: 00000048 - 11:55:29 name: cpu_nation_#2, color: 6
+At: 00000048 - 11:55:29 result;name: cpu_nation_#2, color: 6
+At: 00000007 - 12:30:42 new launch------------------------------------------------
+At: 00000047 - 12:30:42 name: cpu_nation_#1, color: 4
+At: 00000048 - 12:30:42 result;name: cpu_nation_#1, color: 4
+At: 00000048 - 12:30:42 name: cpu_nation_#2, color: 6
+At: 00000048 - 12:30:42 result;name: cpu_nation_#2, color: 6
+At: 00000010 - 12:37:37 new launch------------------------------------------------
+At: 00000050 - 12:37:37 name: cpu_nation_#1, color: 4
+At: 00000050 - 12:37:37 result;name: cpu_nation_#1, color: 4
+At: 00000051 - 12:37:37 name: cpu_nation_#2, color: 6
+At: 00000051 - 12:37:37 result;name: cpu_nation_#2, color: 6
+At: 00000010 - 12:40:15 new launch------------------------------------------------
+At: 00000050 - 12:40:16 name: cpu_nation_#1, color: 4
+At: 00000050 - 12:40:16 result;name: cpu_nation_#1, color: 4
+At: 00000050 - 12:40:16 name: cpu_nation_#2, color: 6
+At: 00000050 - 12:40:16 result;name: cpu_nation_#2, color: 6
+At: 00000010 - 12:44:40 new launch------------------------------------------------
+At: 00000051 - 12:44:40 name: cpu_nation_#1, color: 4
+At: 00000051 - 12:44:40 result;name: cpu_nation_#1, color: 4
+At: 00000052 - 12:44:40 name: cpu_nation_#2, color: 6
+At: 00000052 - 12:44:40 result;name: cpu_nation_#2, color: 6
+At: 00000021 - 12:45:36 new launch------------------------------------------------
+At: 00000000 - 12:51:55 new launch------------------------------------------------
+At: 00000010 - 12:54:10 new launch------------------------------------------------
+At: 00000015 - 12:59:39 new launch------------------------------------------------
+At: 00000000 - 12:59:48 new launch------------------------------------------------
+At: 00000010 - 13:06:54 new launch------------------------------------------------
+At: 00000020 - 13:14:30 new launch------------------------------------------------
+At: 00000020 - 13:15:20 new launch------------------------------------------------
+At: 00000020 - 13:24:32 new launch------------------------------------------------
+At: 00000011 - 13:26:49 new launch------------------------------------------------
+At: 00000010 - 13:27:48 new launch------------------------------------------------
+At: 00000010 - 13:28:02 new launch------------------------------------------------
+At: 00000015 - 13:29:16 new launch------------------------------------------------
+At: 00000007 - 13:31:53 new launch------------------------------------------------
+At: 00000006 - 13:34:01 new launch------------------------------------------------
+At: 00000012 - 13:35:06 new launch------------------------------------------------
+At: 00000020 - 13:46:16 new launch------------------------------------------------
+At: 00000010 - 13:46:26 new launch------------------------------------------------
+At: 00000010 - 14:07:42 new launch------------------------------------------------
+At: 00000010 - 14:07:57 new launch------------------------------------------------
+At: 00000020 - 14:08:29 new launch------------------------------------------------
+At: 00000020 - 14:11:40 new launch------------------------------------------------
+At: 00000010 - 14:13:10 new launch------------------------------------------------
+At: 00000011 - 14:35:42 new launch------------------------------------------------
+At: 00000010 - 14:36:03 new launch------------------------------------------------
+At: 00000020 - 14:42:12 new launch------------------------------------------------
+At: 00000010 - 14:44:51 new launch------------------------------------------------
+At: 00000020 - 14:48:11 new launch------------------------------------------------
+At: 00000012 - 14:51:28 new launch------------------------------------------------
+At: 00000015 - 14:51:42 new launch------------------------------------------------
+At: 00000010 - 14:54:37 new launch------------------------------------------------
+At: 00000012 - 14:55:10 new launch------------------------------------------------
+At: 00000009 - 14:55:42 new launch------------------------------------------------
+At: 00000010 - 14:58:57 new launch------------------------------------------------
+At: 00000020 - 14:59:36 new launch------------------------------------------------
+At: 00000010 - 15:00:00 new launch------------------------------------------------
+At: 00000000 - 15:01:15 new launch------------------------------------------------
+At: 00000010 - 15:04:06 new launch------------------------------------------------
+At: 00000010 - 15:05:09 new launch------------------------------------------------
+At: 00000010 - 15:07:33 new launch------------------------------------------------
+At: 00000010 - 15:08:19 new launch------------------------------------------------
+At: 00000000 - 15:09:20 new launch------------------------------------------------
+At: 00000010 - 15:10:57 new launch------------------------------------------------
+At: 00000020 - 15:26:01 new launch------------------------------------------------
+At: 00000000 - 18:46:37 new launch------------------------------------------------
+At: 00000020 - 18:47:06 new launch------------------------------------------------
+At: 00000010 - 18:51:43 new launch------------------------------------------------
+At: 00000030 - 18:53:24 new launch------------------------------------------------
+At: 00000010 - 18:53:29 new launch------------------------------------------------
+At: 00000010 - 18:54:24 new launch------------------------------------------------
+At: 00000010 - 18:56:42 new launch------------------------------------------------
+At: 00000013 - 19:09:09 new launch------------------------------------------------
+At: 00000014 - 19:11:47 new launch------------------------------------------------
+At: 00000011 - 19:14:33 new launch------------------------------------------------

@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1459004758 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\main.cpp
+	"GameInstance.h"
+
+1459789162 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\gameinstance.h
+	"Nation.h"
+	"World.h"
+	"structs.h"
+	<vector>
+	<curses.h>
+
+1459244235 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\world.h
+	"Settlement.h"
+	"Grid.h"
+
+1459789000 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\gameinstance.cpp
+	"GameInstance.h"
+	<cstdlib>
+	<ctime>
+	"MiscFunctions.h"
+
+1459244308 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\world.cpp
+	"World.h"
+	<cstdlib>
+	<iostream>
+	"MiscFunctions.h"
+
+1459006032 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\variables.h
+	"Resources.h"
+
+1459251110 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\nation.cpp
+	"Nation.h"
+	"MiscFunctions.h"
+
+1459203810 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\nation.h
+	<vector>
+	<string>
+	"Group.h"
+	"Enums.h"
+
+1459257053 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\settlement.h
+	<string>
+	<vector>
+	"Building.h"
+
+1459257053 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\settlement.cpp
+	"Settlement.h"
+
+1459257613 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\group.h
+	"Grid.h"
+	"Resources.h"
+	<string>
+
+1458850165 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\building.h
+
+1459256641 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\grid.h
+	"Settlement.h"
+	"Resources.h"
+
+1458850165 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\building.cpp
+	"Building.h"
+
+1459256641 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\grid.cpp
+	"Grid.h"
+	<cstdlib>
+	"Variables.h"
+	"MiscFunctions.h"
+
+1459257613 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\group.cpp
+	"Group.h"
+	"MiscFunctions.h"
+	"Variables.h"
+
+1459254962 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\resources.cpp
+	"Resources.h"
+	"MiscFunctions.h"
+
+1459257956 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\resources.h
+	<string>
+
+1458844543 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\classes.h
+
+1459008311 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\enums.h
+
+1459006032 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\miscfunctions.h
+	<sstream>
+	<string>
+
+1458846909 c:\pdcurs34\\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1458850509 c:\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1458913428 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\structs.h
+
+1458927650 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\cpucontroller.cpp
+	"CPUController.h"
+
+1458927652 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\cpucontroller.h
+	"Nation.h"
+
+1459176026 source:u:\users\aero\desktop\dokumenty\programy\strategy_project\src\playercontroller.cpp
+	"PlayerController.h"
+
+1459176024 u:\users\aero\desktop\dokumenty\programy\strategy_project\include\playercontroller.h
+	"Nation.h"
+
